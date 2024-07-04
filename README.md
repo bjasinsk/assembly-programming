@@ -72,8 +72,8 @@ This project illustrates how low-level programming can be used to manipulate and
 
 **Before Applying Filter:**
 
-![Before Filter](las.bmp)
+![Before Filter](images/las.bmp)
 
 **After Applying Filter:**
 
-![After Filter](las_wynik.bmp)
+![After Filter](images/las_wynik.bmp)
