@@ -14,10 +14,6 @@ This project demonstrates averaging filter using RISC-V assembly language in the
 
 1. **Install Java**: Ensure you have Java installed on your machine.
 
-   ```sh
-   java -version
-   ```
-
 2. **Download RARS**: Download the latest version of RARS from [RARS GitHub Repository](https://github.com/TheThirdOne/rars).
 
 3. **Run RARS**:
